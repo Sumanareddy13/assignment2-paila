@@ -16,3 +16,23 @@ Everyone has their tastes and preferences.This statement applies for sports too.
 2. New York Knicks
 3. Nuggets
 
+------
+
+[AboutMe](https://github.com/Sumanareddy13/assignment2-paila/commit/63f13f6760855473d2dcf68ece72499ae1e09010)
+
+---------
+
+# Countries I would recommend someone
+
+Below table includes the information about the name of the country,reason why I would recommend someone to visit and number of days one could spend there.
+| Name of Country  | Reason to visit          | No. of days |
+|----------------- |----------------------    |------------ |
+| Europe           |beautiful cities(Paris)   | 40          |
+| India            |monuments,spiritual places| 30          |
+| Switzerland      |mountains, scenic beauty  | 25          |
+| Australia        |Infrastructure,Rainforests| 20          |
+
+-----------
+
+
+

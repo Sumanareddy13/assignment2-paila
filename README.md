@@ -43,7 +43,7 @@ Below table includes the information about the name of the country,reason why I 
 >How to sort numbers?
 (https://stackoverflow.com/questions/42303843/sorting-numbers-in-ascending-order)
 
-````
+~~~~~
 @function quick-sort($list) {
   $less:  ();
   $equal: ();
@@ -67,7 +67,7 @@ Below table includes the information about the name of the country,reason why I 
 
   @return $list;
 }
-````
+~~~~~
 (https://css-tricks.com/snippets/sass/sorting-function/)
 
 

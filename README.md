@@ -33,6 +33,9 @@ Below table includes the information about the name of the country,reason why I 
 | Australia        |Infrastructure,Rainforests| 20          |
 
 -----------
+ >Truth hurts. Maybe not as much as jumping on a bicycle with a seat missing, but it hurts.***—Lt. Frank Drebin (Leslie Nielsen)***
+ >>A day without sunshine is like, you know, night.***—Steve Martin***
 
+ -----------
 
 

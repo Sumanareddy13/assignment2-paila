@@ -11,4 +11,8 @@ Everyone has their tastes and preferences.This statement applies for sports too.
 3. Prashant Singh Rawat
 4. Shashank Rai
 
+# Unorderedlist
+1. Washington Wizards
+2. New York Knicks
+3. Nuggets
 

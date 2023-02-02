@@ -34,7 +34,7 @@ Below table includes the information about the name of the country,reason why I 
 
 -----------
  >Truth hurts. Maybe not as much as jumping on a bicycle with a seat missing, but it hurts.***—Lt. Frank Drebin (Leslie Nielsen)***
- >>A day without sunshine is like, you know, night.***—Steve Martin***
+ >A day without sunshine is like, you know, night.***—Steve Martin***
 
  -----------
 
